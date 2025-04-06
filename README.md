@@ -31,7 +31,7 @@ This system detects driver drowsiness using computer vision techniques to monito
 
 Run the main script:
 ```
-python drowsiness_detection.py
+python simple_start.py
 ```
 
 ## How It Works
