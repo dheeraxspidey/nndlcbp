@@ -1,0 +1,5 @@
+opencv-python
+numpy
+
+# Dlib is often challenging to install, can be added separately if needed
+# dlib
