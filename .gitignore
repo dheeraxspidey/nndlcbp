@@ -1,0 +1,4 @@
+# Python bytecode
+__pycache__/
+nndlcbp/
+# dlib model file
