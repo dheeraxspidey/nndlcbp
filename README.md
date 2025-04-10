@@ -165,6 +165,10 @@ The comparison tool evaluates all three methods using:
 
 ## Configuration
 
+You can adjust the following parameters in the script:
+- `EAR_THRESHOLD`: The threshold below which the eye is considered closed
+- `CONSECUTIVE_FRAMES`: Number of consecutive frames the eye must be closed to trigger an alert 
+
 You can adjust the following parameters in the scripts:
 - `EAR_THRESHOLD`: The threshold below which the eye is considered closed (traditional method)
 - `CONSECUTIVE_FRAMES`: Number of consecutive frames the eye must be closed to trigger an alert
